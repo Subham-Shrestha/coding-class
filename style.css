@@ -1,0 +1,16 @@
+h1{
+    color :blue;
+}
+
+.alignment {
+    margin-left : 200px;
+    font-weight: "bold";
+}
+
+#cardId{
+    border-radius : 50px;
+    background-color :aliceblue;
+    min-height : 200px;
+    width : 300 px;
+    max-width : 200px;
+}
